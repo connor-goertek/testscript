@@ -1,4 +1,4 @@
 import os
 import sys
 
-print("hello\r\n")
+print("hello, firmware_converter\r\n")
